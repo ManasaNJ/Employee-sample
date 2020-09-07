@@ -1,1 +1,2 @@
 # SampleApp
+Sample Project cloned
